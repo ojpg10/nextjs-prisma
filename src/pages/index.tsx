@@ -71,7 +71,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Railway NextJS Prisma</title>
+        <title>Oscar Perez base de datos </title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -80,6 +80,8 @@ const Home: NextPage = () => {
         <h2 className={styles.desc}>
           NextJS app connected to Postgres using Prisma and hosted on{" "}
           <a href="https://railway.app">Railway</a>
+          <a href="www.google.com">google</a>
+
         </h2>
       </header>
 
